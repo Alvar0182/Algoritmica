@@ -1,5 +1,5 @@
 # Algoritmica
-Practices of the subject of third of computational sciences
+Practices of the subject of third year of Computer Science:
 
 To compile practice X:
 1. cmake .
